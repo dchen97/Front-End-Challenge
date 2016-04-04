@@ -4,3 +4,7 @@ Instructions for using StudyGrouper:
 3. Select desired group.
 4. View options.
 5. View FAQ
+
+Improvements:
+* Added FAQ section in support
+* Changed footer style to match school colors
