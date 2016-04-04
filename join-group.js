@@ -20,7 +20,7 @@ function loadData(array) {
   var participants = array.groups[classNum].pariticpants;
   var participantHTML = "";
   for(var i = 0; i < participants.length; i ++) {
-    participantHTML += '<div class="media"><div class="media-left media-middle"><a href="#"><img class="media-object" src="http://d2v8ggac1o0f6z.cloudfront.net/gsc/8F2SFK/da/be/ad/dabeadfefab945479a24c69e1734a206/images/advanced_css_-_study_group_details/rectangle_u125.png?token=a3948c701ca984e18c914870ae8c4648" alt="default image"></a></div>';
+    participantHTML += '<div class="media"><div class="media-left media-middle"><a href="#"><img class="media-object" src="https://www.phoronix.com/forums/core/images/default/default_avatar_medium.png" alt="default image"></a></div>';
     participantHTML += '<div class="media-body"><h4 class="media-heading">';
     participantHTML+= participants[i] + '</h4>';
     if (i == 0){
