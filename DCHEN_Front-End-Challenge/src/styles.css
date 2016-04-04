@@ -1,0 +1,24 @@
+.maroon-background {
+  background-color: #A91554;
+  height: 5em;
+}
+
+.gold-background {
+  background-color: #FFC425;
+  height: 5em;
+}
+
+footer {
+  padding-top: 5em;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #A91554;
+}
+
+a.btn {
+  margin: auto;
+  margin-bottom: 10px;
+  /*width: 50%;*/
+}
