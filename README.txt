@@ -1,5 +1,6 @@
 Instructions for using StudyGrouper:
-1. Select desired subject.
-2. Select desired group.
-3. View further information and options.
-4. View FAQ if needed.
+1. Go to http://dchen97.github.io/Front-End-Challenge/index.html
+2. Select desired subject.
+3. Select desired group.
+4. View options.
+5. View FAQ
